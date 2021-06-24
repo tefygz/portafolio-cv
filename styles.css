@@ -512,6 +512,9 @@ p {
     flex-direction: row;
     max-width: 800px;
   }
+  .portfolio-modal > img{
+    width: 500px;
+  }
   .portfolio-info {
     margin-left: 1rem;
     align-self: center;
