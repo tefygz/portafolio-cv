@@ -510,7 +510,7 @@ p {
   }
   .portfolio-modal {
     flex-direction: row;
-    max-width: 800px;
+    max-width: 900px;
   }
   .portfolio-modal > img{
     width: 500px;
