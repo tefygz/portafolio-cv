@@ -136,6 +136,9 @@ p {
 .section {
   padding: 2rem 1rem;
 }
+.section-2{
+  padding: 2rem 0;
+}
 .section-btn {
   padding-top: 1rem;
 }
